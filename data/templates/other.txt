@@ -1,0 +1,16 @@
+{{salutation}} {{title}},
+
+Your UO account has been compromised.  You need to visit UO's {{website-name}}
+at http://www.scam.com and fill out the form.  If you don't, it's very likely
+all your {{noun}} will be stolen!  If you have any questions, call us
+{{adverb}}.
+
+Note: the form will request you to provide us with
+{{sensitive-information-bullet-point}}.  Normally we'll never ask for this kind
+of information, but this is a {{desperation-adjective}} situation.  Trust us;
+we are professionals, after all.
+
+Thanks,
+
+{{first-name}} {{last-name}}
+Senior IT {{profession}}
