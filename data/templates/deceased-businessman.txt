@@ -1,0 +1,37 @@
+{{salutation}} {{title}},
+
+{{salutation}}!
+
+{{introduction-sentence}}.
+
+I tracked you down on {{website-name}}.  You do not know me, but my name is
+{{first-name}} {{last-name}} and I am in {{desperation-adjective}} need of assistance!  My
+{{relation-type}}, {{first-name->$deceased}}, whom I'm certain you knew well,
+was a very wealthy {{noun}} {{profession}} who was murdered by business
+associates who had been threatening our family for over {{number}} years.
+
+Before the tragedy, I was told of a large sum of money ({{dollar-amount}}) left
+in a {{account-adjective}} account in a local Bank in {{country}}, and that my name was
+set as the next of kin in deposit of the fund.
+
+You are undoubtedly aware of your good friend's death, and perhaps of the vast
+fortune left behind, but you may not be aware that our Prime Minister here in
+{{country}} has prevented our family from the inheritance.
+
+Please you must help us!  As you were so close to {{$deceased}}, and the local
+authorities are {{adverb}} corrupt, you are the only hope we can have!!
+
+We know you are very busy and will compensate you with a "{{number}}% commission" as it
+were.  We are honourably seeking your assistance in the following ways.
+
+1) To provide a Bank account where this money would be transferred to.
+
+2) To serve as the guardian of this since I am just {{number}} years of age.
+
+{{closing-sentence}}
+
+1) Your name in full
+2) Your Bank name
+3) Your Bank account numbers
+4) Your {{relation-type}}'s maiden name
+5) {{sensitive-information-bullet-point}}
