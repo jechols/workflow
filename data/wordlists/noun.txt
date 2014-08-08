@@ -1,1 +1,4 @@
 gold
+green
+purple
+black, black, black
