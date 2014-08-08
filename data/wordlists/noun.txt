@@ -2,3 +2,8 @@ gold
 green
 purple
 black, black, black
+silver
+platinum
+bitcoin
+dogecoin
+diamond
