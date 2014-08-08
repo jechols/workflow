@@ -1,1 +1,3 @@
+librarian
+teacher
 merchant
