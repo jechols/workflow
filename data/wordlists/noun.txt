@@ -1,1 +1,6 @@
 gold
+silver
+platinum
+bitcoin
+dogecoin
+diamond
