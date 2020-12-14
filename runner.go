@@ -65,7 +65,7 @@ func main() {
 
 	// Throw out errors if any lists are empty
 	for listname, list := range lists {
-		if list.masterList.Len() == 0 {
+		if list.source.Len() == 0 {
 			fmt.Printf("FATAL: List '%s' exists but has no data!\n", listname)
 			os.Exit(1)
 		}

@@ -46,25 +46,25 @@ func (slice *StringSlice) Clone() *StringSlice {
 }
 
 type StringList struct {
-	masterList *StringSlice
+	source *StringSlice
 	options *StringSlice
 }
 
 func NewStringList() *StringList {
 	return &StringList{
-		masterList: NewStringSlice(0),
+		source: NewStringSlice(0),
 		options: NewStringSlice(0),
 	}
 }
 
 func (slist *StringList) AddString(str string) {
-	slist.masterList.Append(str)
+	slist.source.Append(str)
 }
 
 func (slist *StringList) RandomString() string {
-	// Clone and shuffle the master list if we have no strings
+	// Clone and shuffle the source list if we have no strings
 	if (slist.options.Len() < 1) {
-		slist.options = slist.masterList.Clone()
+		slist.options = slist.source.Clone()
 		slist.options.Shuffle()
 	}
 
